@@ -16,4 +16,6 @@ input_to_index(num) = index
 
 move(board, index, value = "X")
 
+end
+
 display_board(board)
