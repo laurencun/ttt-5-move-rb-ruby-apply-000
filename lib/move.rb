@@ -15,5 +15,3 @@ end
 def move (array, index, value = "X")
   return
 end
-
-move(board, index, value)
