@@ -12,4 +12,5 @@ puts "Where would you liek to go?"
 
 gets.strip.input
 
-input_to_index(input)
+input_to_index(num) = index
+
